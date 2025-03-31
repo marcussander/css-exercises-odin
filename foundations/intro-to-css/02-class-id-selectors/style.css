@@ -1,0 +1,18 @@
+#item2{
+    color: blue;
+    font-size: 36px;
+}
+#item3{
+    font-size: 24px;
+}
+
+#item4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.odds{
+    background-color: palevioletred;
+    font-family: Verdana "DejaVu Sans" sans-serif;
+}
